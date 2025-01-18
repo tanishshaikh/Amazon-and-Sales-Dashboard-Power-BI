@@ -57,9 +57,6 @@ Key takeaways from the sales data include:
    - Certain sub-categories consistently outperform others, indicating **priority areas for investment and focus**.
   
 
-
-Here’s the updated professional README content with **Deployment Instructions** and **Contributions** sections removed:  
-
 ---
 
 ### 2)**Amazon Advance Dashboard**
@@ -82,9 +79,7 @@ This repository contains the implementation of a professional sales analytics da
    - **Product Categorization**:  
      - Provides insights into sales across various product categories.  
 
-#### **4. Technologies Used**:  
-   - **Frontend**: React.js, D3.js, or Plotly for data visualization.  
-   - **Backend**: Node.js, Flask, or Django for API integration.  
+#### **4. Technologies Used**:   
    - **Database**: MySQL or PostgreSQL for storing sales and order data.  
 
 #### **5. Use Cases**:  
