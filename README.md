@@ -1,5 +1,4 @@
 # Amazon-and-Sales-Dashboard-Power-BI
-Here’s a more polished and pointwise version of your description with key points highlighted:
 
 ---
 
