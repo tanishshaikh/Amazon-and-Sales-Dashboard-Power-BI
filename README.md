@@ -40,6 +40,9 @@ The dashboard provides a comprehensive view of sales performance through key met
    - **Visualization**: Regional comparison of sales across sub-categories.
    - **Purpose**: Identify regional strengths and areas for improvement.
 
+**Dashboard**: ![Sales](https://github.com/user-attachments/assets/75e02983-3ef2-4295-bca8-5f5a90b883e3)
+
+
 ---
 
 #### **Insights**
@@ -63,6 +66,11 @@ Key takeaways from the sales data include:
 
 ## **Project Overview**  
 This Power BI dashboard provides an in-depth analysis of Amazon Prime Video's content library, offering key insights into the platform's movies and TV shows. It enables stakeholders to explore trends in content availability, genre distribution, ratings, and regional presence.  
+
+
+**Dashboard**: ![Amazon Prime Dashboard](https://github.com/user-attachments/assets/cc275444-4f3e-45ae-bfa5-16c358a4fd2c)
+
+
 
 ## **Key Features & Metrics**  
 
