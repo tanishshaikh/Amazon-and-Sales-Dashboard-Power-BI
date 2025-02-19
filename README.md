@@ -57,44 +57,47 @@ Key takeaways from the sales data include:
    - Certain sub-categories consistently outperform others, indicating **priority areas for investment and focus**.
   
 
----
 
-### 2)**Amazon Advance Dashboard**
 
-#### **1. Project Title**:  
-**Amazon Sales Analytics Dashboard**  
+# 2)**Amazon Prime**  
 
-#### **2. Project Description**:  
-This repository contains the implementation of a professional sales analytics dashboard designed for Amazon’s e-commerce platform. The dashboard offers actionable insights into sales trends, geographical performance, and order statuses, enabling better inventory planning, seller management, and customer satisfaction.  
+## **Project Overview**  
+This Power BI dashboard provides an in-depth analysis of Amazon Prime Video's content library, offering key insights into the platform's movies and TV shows. It enables stakeholders to explore trends in content availability, genre distribution, ratings, and regional presence.  
 
-#### **3. Key Features**:  
-   - **Comprehensive Metrics**:  
-     - Tracks overall sales, unit volumes, and active seller counts.  
-   - **Order Status Insights**:  
-     - Allows filtering and tracking of orders across multiple fulfillment stages.  
-   - **Geographical Sales Analytics**:  
-     - Breakdown of sales by city (e.g., Bengaluru, Hyderabad) and state (e.g., Maharashtra, Karnataka).  
-   - **Time-Series Trends**:  
-     - Visual representation of sales performance over time.  
-   - **Product Categorization**:  
-     - Provides insights into sales across various product categories.  
+## **Key Features & Metrics**  
 
-#### **4. Technologies Used**:   
-   - **Database**: MySQL or PostgreSQL for storing sales and order data.  
+### **1. Content Overview**  
+- **Total Titles:** Displays the total number of movies and TV shows available on Amazon Prime Video.  
+- **Total Ratings:** Represents the number of unique content rating classifications.  
+- **Total Genres:** Highlights the diversity of genres within the platform’s catalog.  
+- **Start Year – End Year:** Shows the earliest and latest release years in the dataset.  
 
-#### **5. Use Cases**:  
-   - **Business Insights**:  
-     - Identify top-performing regions and optimize marketing efforts.  
-   - **Order Fulfillment**:  
-     - Monitor the status of orders to improve delivery timelines.  
-   - **Trend Analysis**:  
-     - Analyze sales patterns for better inventory planning.  
+### **2. Ratings Distribution**  
+- **Visualization:** A horizontal bar chart displaying the number of titles categorized under different content ratings (e.g., 13+, 16+, R, PG-13).  
+- **Objective:** Understand the platform’s content classification and its suitability for various audience groups.  
 
-#### **6. Insights for Stakeholders**:  
-   - Regional and temporal sales data provides critical insights for optimizing resource allocation.  
-   - Identification of high-performing and underperforming regions enables targeted interventions.  
+### **3. Genre Analysis**  
+- **Visualization:** A bar chart depicting the number of titles available in each genre (e.g., Drama, Comedy, Documentary).  
+- **Objective:** Identify the most prevalent genres and analyze content preferences on Amazon Prime Video.  
 
-#### **7. Future Roadmap**:  
-   - Incorporate predictive analytics to forecast sales trends.  
-   - Enhance product-level granularity for category-specific insights.  
-   - Integrate advanced filtering for dynamic, real-time data exploration.  
+### **4. Movies vs. TV Shows Distribution**  
+- **Visualization:** A donut chart showing the proportion of movies and TV shows.  
+- **Objective:** Analyze the platform’s content strategy by understanding the balance between movies and TV series.  
+
+### **5. Content Growth Over Time**  
+- **Visualization:** A line chart illustrating the number of shows released each year, from 1920 to 2021.  
+- **Objective:** Track the expansion of Amazon Prime Video’s content library over time and identify key growth periods.  
+
+### **6. Geographical Distribution**  
+- **Visualization:** A world map highlighting content distribution across different countries.  
+- **Objective:** Gain insights into Amazon Prime Video’s global reach and availability of content in various regions.  
+
+## **Key Insights & Business Implications**  
+- **Rapid Content Expansion:** A significant increase in content availability in recent years, reflecting Amazon Prime Video’s aggressive content acquisition and production strategy.  
+- **Genre Dominance:** Drama and Comedy emerge as the most dominant genres, suggesting audience preference trends.  
+- **Rating Trends:** A large portion of content is classified for teenage and mature audiences, indicating a focus on diverse and engaging content for older demographics.  
+- **Strong TV Show Presence:** The platform hosts a considerable number of TV series, reinforcing Amazon Prime’s strategy of long-term audience engagement.  
+- **Global Reach:** Content is available across multiple regions, highlighting Amazon’s widespread market penetration.  
+
+## **Conclusion**  
+This Power BI dashboard provides a comprehensive view of Amazon Prime Video’s content landscape. It serves as a valuable tool for content strategists, analysts, and business decision-makers looking to optimize content offerings, enhance user engagement, and drive platform growth.  
